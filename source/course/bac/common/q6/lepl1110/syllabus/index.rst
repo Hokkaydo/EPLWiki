@@ -7,7 +7,7 @@ La version officielle de celui-ci est disponible `ici <https://perso.uclouvain.b
 
 .. toctree::
     :caption: Table des matières
-    :numbered:
+    :numbered: 2
     :maxdepth: 2
     
     chap1/index

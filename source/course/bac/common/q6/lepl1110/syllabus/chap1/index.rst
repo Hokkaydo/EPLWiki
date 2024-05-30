@@ -24,7 +24,7 @@ On peut directement en déduire que les valeurs nodales sont les valeurs de :mat
    \end{aligned}
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     
     unidimensional
     bidimensional
