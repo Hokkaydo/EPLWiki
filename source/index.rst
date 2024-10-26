@@ -21,6 +21,7 @@ Un bon départ est le `Discord de l'EPL <https://discord.gg/xDknw6uGxF>`_ où vo
     bar
     example
     course/index
+    erasmus
 
 
 TODO [#f1]_
@@ -30,9 +31,9 @@ TODO [#f1]_
 
     - [ ] Home page
     - [ ] Tutorats
-    - [ ] Erasmus
+    - [ ] :ref:`erasmus`
     - [x] Drive
-    - [ ] Discord
+    - [x] Discord
     - [ ] Cours (liste de ressources externes par cours)
 
 .. rubric:: Footnotes
